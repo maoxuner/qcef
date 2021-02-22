@@ -1,6 +1,6 @@
 Arch Linux netease-cloud-music Chinese input
 
-git clone https://github.com/webruth66/qcef.git
+git clone https://github.com/maoxuner/qcef.git
 
 cd qcef
 
